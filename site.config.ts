@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Shardly',
   domain: 'shardly.io',
-  author: 'Mike Duister',
+  author: 'Shardly',
 
   // open graph metadata (optional)
   description: 'Shardly is a development agency that helps you build your next big idea.', 
