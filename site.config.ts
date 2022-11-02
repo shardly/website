@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Mike Duister',
 
   // open graph metadata (optional)
-  description: 'Bewonerscommissie Aurora Website',
+  description: 'Shardly is a development agency that helps you build your next big idea.', 
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
